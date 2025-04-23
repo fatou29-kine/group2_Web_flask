@@ -54,6 +54,6 @@ Contributions are welcome! Please follow these steps:
 
 ## Contact
 For any inquiries or feedback, please contact:
-- Jean Bayiha
-- Email: bayihajean1991@gmail.com
-- GitHub: https://github.com/jeanbayiha24
+- Fatou Kine TOURE
+- Email: fatou.k.toure@aims-senegal.org
+- GitHub: https://github.com/fatou29-kine
